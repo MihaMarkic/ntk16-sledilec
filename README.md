@@ -9,7 +9,7 @@ Docker contains metadata and commands required to build and rund docker containe
 Docker is further divided into destkop and pi, each using proper architecture (pi is on arm).
 
 You can also pull docker images from [Docker hub](https://hub.docker.com/u/mihamarkic/).
-Images with postfix -pi are arm based, while others are Intel based.
+All relevant images are "sledilec-" prefixed. Images with postfix -pi are arm based, while others are Intel based.
 
 See also my [blog post](https://blog.rthand.com/post/2016/05/13/Mono-Docker-314-WebAPI-on-NTK-2016.aspx).
 
