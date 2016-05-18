@@ -1,0 +1,1 @@
+docker run --ip=172.26.1.3 --net=sledilec --name sledilec-st -d mihamarkic/sledilec-streznik-pi

@@ -1,0 +1,1 @@
+docker network create -d bridge --subnet 172.26.1.0/24 sledilec

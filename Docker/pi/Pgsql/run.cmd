@@ -1,0 +1,1 @@
+docker run --ip=172.26.1.2 --net=sledilec --name sledilec-ps -e POSTGRES_PASSWORD=skrivnost -d -p 5432:5432 --volume /var/lib/docker/postgresql:/var/lib/postgresql mihamarkic/sledilec-postgres-pi
